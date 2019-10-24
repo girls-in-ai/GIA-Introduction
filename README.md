@@ -15,4 +15,3 @@ GIA 微信交流群👉 暂时只接受邀请入群
 
 GIA 贡献者👉 [name-list](https://github.com/girls-in-ai/GIA-Contributors) 
 
-GIA 赞助者👉 [name-list](https://github.com/girls-in-ai/GIA-Sponsors) 
